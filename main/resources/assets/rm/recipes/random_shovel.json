@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " S ",
+        " W ",
+        " W "
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "rm:random_ingot"
+        },
+        "W":
+        {
+        "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rm:random_shovel",
+        "count": 1
+    }
+}
