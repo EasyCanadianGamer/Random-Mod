@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "rm:random_block" }
+    }
+}

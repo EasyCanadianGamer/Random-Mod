@@ -1,0 +1,33 @@
+//Items
+item.random_ingot.name=Random Ingot
+
+//Blocks
+tile.random_block.name=Block of Random
+
+tile.towel_hanger.name=Towel Hanger
+
+tile.random_ore.name=Random Ore
+//Tabs
+itemGroup.randommod=Random mod
+
+//Tools
+item.random_sword.name=Random Sword
+item.random_shovel.name=Random Shovel
+item.random_pickaxe.name=Random Pickaxe
+item.random_axe.name=Random Axe
+item.random_hoe.name=Random Hoe
+
+//Armor
+item.random_helmet.name=Random Helmet
+item.random_chestplate.name=Random Chestplate
+item.random_leggings.name=Random Leggings
+item.random_boots.name=Random Boots
+item.stone_helmet.name=Stone Helmet
+item.stone_chestplate.name=Stone Chestplate
+item.stone_leggings.name=Stone Leggings
+item.stone_boots.name=Stone Boots
+
+
+//Food
+item.random_meat_raw.name=Random Meat Raw
+item.random_meat_cooked.name=Random Meat Cooked
