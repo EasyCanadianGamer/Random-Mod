@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "SSS",
+        " W ",
+        " W "
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "rm:random_ingot"
+        },
+        "W":
+        {
+        "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rm:random_pickaxe",
+        "count": 1
+    }
+}

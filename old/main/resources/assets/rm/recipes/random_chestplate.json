@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "S S",
+        "SSS",
+        "SSS"
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "rm:random_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rm:random_chestplate",
+        "count": 1
+    }
+}
