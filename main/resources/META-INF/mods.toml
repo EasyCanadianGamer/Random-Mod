@@ -1,0 +1,16 @@
+
+modLoader="javafml" #mandatory
+loaderVersion="[35,)" 
+license="All rights reserved"
+
+[[mods]] 
+modId="rm" #mandatory
+version="2.0" 
+displayName="Random Mod" 
+displayURL="https://www.curseforge.com/minecraft/mc-mods/random-mod-by-easycanadiangamer" 
+logoFile="examplemod.png"
+credits="Thank you to my Subscribers!" 
+authors="Canadian Gamer!" 
+description='''
+An random mod.
+'''

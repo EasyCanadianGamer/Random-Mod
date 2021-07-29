@@ -1,4 +1,3 @@
-
 {
-   "parent": "rm:block/random_ore"
+	"parent": "rm:block/random_ore"
 }
