@@ -1,5 +1,15 @@
 # Random Mod - Forge & Fabric
-Random Mod is a mod that has armor, weapons, and tools. Also have a towel hanger, and some food with it.  The armor is stronger than iron but the same strength as diamond. The weapons like the sword is stronger than diamond sword and the tools are the same as the diamond tools. The towel hanger is just a decoration block so it does not do much. The food in this mod has a negative affects if you eat raw but when cooked the buff will have a positive affect. 
+Random Mod is a mod that has armor, weapons, and tools. Also have a towel hanger, and some food with it.  The armor is stronger than iron but the same strength as diamond. The weapons like the sword is stronger than diamond sword and the tools are the same as the diamond tools. The towel hanger is just a decoration block so it does not do much. The food in this mod has a negative affects if you eat raw but when cooked the buff will have a positive affect. 
+
+
+______________________________________________________________________________
+
+## Items to add:
+
+ - [ ] Crack Cocaine 
+ - [ ] The Random Dimension
+ - [ ] Air Pods
+
 ___________________________________________________________________________________________________________________________________________________________________________________
 Offical Mod review for the Random Mod
 -
